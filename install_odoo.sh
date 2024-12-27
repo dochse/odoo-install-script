@@ -1,6 +1,18 @@
 #!/bin/bash
 
+
 # Universal Odoo Installation Script
+# Author: Moaaz Gafar
+# Email: m.gafar2024@gmail.com
+# LinkedIn: https://www.linkedin.com/in/%F0%9D%91%B4%F0%9D%92%90%F0%9D%92%82%F0%9D%92%82%F0%9D%92%9B-%F0%9D%91%AE%F0%9D%92%82%F0%9D%92%87%F0%9D%92%82%F0%9D%92%93-0676a3111/
+# Created: 2024
+# Description: Automated installation script for Odoo (versions 12.0+) on Ubuntu systems
+# Repository: https://github.com/moaaz1995/odoo-install-script
+#
+# This script is provided under MIT License
+# Copyright (c) 2024 Moaaz Gafar
+
+
 # Supports multiple Ubuntu versions (18.04+) and Odoo versions (12.0+)
 # Usage: sudo bash install_odoo.sh <version>
 # Example: sudo bash install_odoo.sh 16.0
