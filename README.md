@@ -16,7 +16,7 @@ An automated installation script for Odoo on Ubuntu systems. This script support
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/YOUR_USERNAME/odoo-install-script/main/install_odoo.sh
+wget https://raw.githubusercontent.com/moaaz1995/odoo-install-script/main/install_odoo.sh
 
 # Make it executable
 chmod +x install_odoo.sh
