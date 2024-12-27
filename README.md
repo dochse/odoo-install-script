@@ -1,6 +1,16 @@
+
 # Universal Odoo Installation Script
 
 An automated installation script for Odoo on Ubuntu systems. This script supports multiple Odoo versions (12.0+) and Ubuntu versions (18.04+).
+
+
+Author
+Moaaz Gafar
+
+📧 Email: m.gafar2024@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/%F0%9D%91%B4%F0%9D%92%90%F0%9D%92%82%F0%9D%92%82%F0%9D%92%9B-%F0%9D%91%AE%F0%9D%92%82%F0%9D%92%87%F0%9D%92%82%F0%9D%92%93-0676a3111/
+🌟 GitHub: https://github.com/moaaz1995
+
 
 ## Features
 
@@ -67,23 +77,12 @@ Use the provided update script:
 sudo /opt/odoo/update-odoo-XX.0.sh
 ```
 
-## Troubleshooting
-
-See [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) for common issues and solutions.
-
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
 If you encounter any problems, please:
 1. Check the [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
-2. Search existing [Issues](https://github.com/YOUR_USERNAME/odoo-install-script/issues)
+2. Search existing [Issues](https://github.com/moaaz1995/odoo-install-script/issues)
 3. Create a new issue if needed
 
 ## Star History
