@@ -122,9 +122,8 @@ if version_gt $UBUNTU_VERSION "22.04"; then
     apt install -y wkhtmltopdf
 else
     # For older Ubuntu versions, install from website
-    wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6.1-2/wkhtmltox_0.12.6.1-2.jammy_amd64.deb
-    apt install -y ./wkhtmltox_0.12.6.1-2.jammy_amd64.deb
-    rm wkhtmltox_0.12.6.1-2.jammy_amd64.deb
+    wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.focal_amd64.deb
+    apt install -y ./wkhtmltox_0.12.5-1.focal_amd64.deb
 fi
 
 # Create Odoo user
