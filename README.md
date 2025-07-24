@@ -7,9 +7,9 @@ An automated installation script for Odoo on Ubuntu systems. This script support
 Author
 Moaaz Gafar
 
-📧 Email: m.gafar2024@gmail.com
-💼 LinkedIn:https://www.linkedin.com/in/moaaz-gafar-0676a3111/
-🌟 GitHub: https://github.com/moaaz1995
+- Email: m.gafar2024@gmail.com
+- LinkedIn:https://www.linkedin.com/in/moaaz-gafar-0676a3111/
+- GitHub: https://github.com/moaaz1995
 
 
 ## Features
