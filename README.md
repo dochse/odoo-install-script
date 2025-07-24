@@ -8,19 +8,19 @@ Author
 Moaaz Gafar
 
 📧 Email: m.gafar2024@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/%F0%9D%91%B4%F0%9D%92%90%F0%9D%92%82%F0%9D%92%82%F0%9D%92%9B-%F0%9D%91%AE%F0%9D%92%82%F0%9D%92%87%F0%9D%92%82%F0%9D%92%93-0676a3111/
+💼 LinkedIn:https://www.linkedin.com/in/moaaz-gafar-0676a3111/
 🌟 GitHub: https://github.com/moaaz1995
 
 
 ## Features
 
-- ✨ Supports all Odoo versions (12.0 and above)
-- 🐧 Works on Ubuntu 18.04 and newer versions
-- 🔒 Secure configuration with automatic password generation
-- 🚀 Automatic dependency handling
-- 📝 Detailed logging
-- ⚙️ Systemd service configuration
-- 🔄 Easy update mechanism
+- Supports all Odoo versions (12.0 and above)
+-  Works on Ubuntu 18.04 and newer versions
+-  Secure configuration with automatic password generation
+-  Automatic dependency handling
+-  Detailed logging
+-  Systemd service configuration
+-  Easy update mechanism
 
 ## Quick Start
 
