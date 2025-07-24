@@ -1,5 +1,5 @@
 
-# Universal Odoo Installation Script
+#  Odoo Installation Script
 
 An automated installation script for Odoo on Ubuntu systems. This script supports multiple Odoo versions (12.0+) and Ubuntu versions (18.04+).
 
